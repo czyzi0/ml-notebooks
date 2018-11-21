@@ -1,0 +1,8 @@
+name: ml-experiments
+dependencies:
+  - python=3.6.6
+
+  - tensorflow=1.12.0
+
+  - jupyter=1.0.0
+  - matplotlib=3.0.1
