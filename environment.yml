@@ -1,10 +1,16 @@
 name: ml-experiments
+channels:
+  - defaults
+  - pytorch
 dependencies:
-  - python=3.6.7
+  - python=3.6.8
 
-  - tensorflow=1.12.0
-  - scikit-learn=0.20.1
+  - pytorch-cpu=1.0.1
+  - torchvision-cpu=0.2.1
+  - numpy=1.15.4
+
+  - scikit-learn=0.20.2
   - scikit-image=0.14.1
 
   - jupyter=1.0.0
-  - matplotlib=3.0.1
+  - matplotlib=3.0.2
