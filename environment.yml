@@ -1,12 +1,14 @@
-name: ml-experiments
+name: ml-pytorch
 channels:
   - defaults
   - pytorch
 dependencies:
   - python=3.6.8
+ 
+  - cudatoolkit=10.0.130
 
-  - pytorch-cpu=1.0.1
-  - torchvision-cpu=0.2.1
+  - pytorch=1.0.1
+  - torchvision=0.2.1
   - numpy=1.15.4
 
   - scikit-learn=0.20.2
