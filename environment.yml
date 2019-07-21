@@ -3,16 +3,15 @@ channels:
   - defaults
   - pytorch
 dependencies:
-  - python=3.6.8
- 
+  - python=3.7.3
+
   - cudatoolkit=10.0.130
 
-  - pytorch=1.0.1
-  - torchvision=0.2.1
-  - numpy=1.15.4
+  - pytorch=1.1.0
+  - torchvision=0.3.0
+  - numpy=1.16.4
 
-  - scikit-learn=0.20.2
-  - scikit-image=0.14.1
+  - scikit-learn=0.21.2
 
-  - jupyter=1.0.0
-  - matplotlib=3.0.2
+  - jupyter=1.0.0=py37_7
+  - matplotlib=3.1.0
