@@ -1,4 +1,4 @@
-name: ml-pytorch
+name: ml-notebooks
 channels:
   - defaults
   - pytorch

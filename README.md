@@ -1,4 +1,4 @@
-# ml-pytorch
+# ml-notebooks
 Various machine learning notebooks.
 
 ## Setup
@@ -8,5 +8,5 @@ conda env create -f environment.yml
 ```
 
 ## Notebooks
-- [Image classification](https://github.com/czyzi0/ml-pytorch/blob/master/notebooks/image-classification.ipynb) on [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
-- [MNIST GAN](https://github.com/czyzi0/ml-pytorch/blob/master/notebooks/mnist-gan.ipynb)
+- [Image classification](https://github.com/czyzi0/ml-notebooks/blob/master/notebooks/image-classification.ipynb) on [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
+- [MNIST GAN](https://github.com/czyzi0/ml-notebooks/blob/master/notebooks/mnist-gan.ipynb)
