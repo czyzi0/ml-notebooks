@@ -9,4 +9,4 @@ conda env create -f environment.yml
 
 ## Notebooks
 - [Image classification](https://github.com/czyzi0/ml-notebooks/blob/master/notebooks/image-classification.ipynb) on [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
-- [Image generation](https://github.com/czyzi0/ml-notebooks/blob/master/notebooks/mnist-gan.ipynb) on [MNIST](http://yann.lecun.com/exdb/mnist/) using GANs
+- [Image generation](https://github.com/czyzi0/ml-notebooks/blob/master/notebooks/image-generation.ipynb) on [MNIST](http://yann.lecun.com/exdb/mnist/) using GANs
