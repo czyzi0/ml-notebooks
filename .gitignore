@@ -1,5 +1,8 @@
 # Project specific files
-data/
+data-prep
+data-raw
+lightning_logs
+submissions
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
