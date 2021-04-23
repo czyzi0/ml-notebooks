@@ -3,6 +3,7 @@ data-prep
 data-raw
 lightning_logs
 submissions
+submission.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
