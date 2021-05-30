@@ -1,4 +1,5 @@
 # Project specific files
+data
 data-prep
 data-raw
 lightning_logs
